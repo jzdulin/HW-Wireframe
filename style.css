@@ -58,15 +58,16 @@ body{
     background-color: #ebebeb;
     color: #777;
     float: left;
-    width: 327px;
+    width: 345px;
     height: 134px;
     padding: 50px;
     margin: 0px 0px 0px 10px;
 }
 
 .center{
-    width: 89%;
+    /* width: 89%; */
     margin: 0 auto 0 auto;
+    width: 980px;
     /* float: left; */
     /* margin-left:auto; */
     /* margin-right:auto */
@@ -85,5 +86,6 @@ body{
     margin: 20px auto 30px auto;
     width: 920px;
     clear: both;
+    text-align: center;
 } 
 
